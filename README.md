@@ -1,2 +1,3 @@
 # mywebsite
-Sree Vadlamudi Main Website
+Sree Vadlamudi's Main Website
+me@sreevadlamudi.com
